@@ -1,7 +1,7 @@
 # Hello! Welcome to my personal profile! I'm Yueyuan Li.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white
-)](rowena.academic@gmail.com)
+)](mailto:rowena.academic@gmail.com)
 [![Research Gate](
 https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white
 )](https://www.researchgate.net/profile/Yueyuan-Li-4)
