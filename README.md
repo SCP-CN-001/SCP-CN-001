@@ -1,12 +1,7 @@
 # Hello! Welcome to my personal profile! I'm Yueyuan Li.
 
-## About
-
-- I'm currently a Ph.D. student at Shanghai Jiao Tong University.
-- I'm affiliated with [CyberC3 Intelligent Vehicle Labs, Shanghai Jiao Tong University](https://cyberc3.sjtu.edu.cn/).
-- My current research interest is in driving decision-making and interactive driving simulation.
-- I'm the main maintainer of the repositories pinned following the profile. These projects are looking for collaborators!
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white
+)](rowena.academic@gmail.com)
 [![Research Gate](
 https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white
 )](https://www.researchgate.net/profile/Yueyuan-Li-4)
@@ -14,6 +9,13 @@ https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=whi
 [![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dravenclaw-32&logo=zhihu&logoColor=white&label=Zhihu&labelColor=0084FF&color=0084FF&query=$.data.totalSubs&suffix=%20Followers)](https://www.zhihu.com/people/ravenclaw-32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/yueyuanli/)
+
+## About
+
+- I'm currently a Ph.D. student at Shanghai Jiao Tong University.
+- I'm affiliated with [CyberC3 Intelligent Vehicle Labs, Shanghai Jiao Tong University](https://cyberc3.sjtu.edu.cn/).
+- My current research interest is in driving decision-making and interactive driving simulation.
+- I'm the main maintainer of the repositories pinned following the profile. These projects are looking for collaborators!
 
 ## Programming Languages
 
