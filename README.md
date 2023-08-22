@@ -5,6 +5,8 @@
 [![Research Gate](
 https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white
 )](https://www.researchgate.net/profile/Yueyuan-Li-4)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white
+)](https://scholar.google.com/citations?user=GcxEMNIAAAAJ)
 [![Twitter](https://img.shields.io/badge/Twitter_%40MotacillaAlba-1D9BF0?logo=twitter&logoColor=white)](https://twitter.com/SirenBlue3)
 [![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dravenclaw-32&logo=zhihu&logoColor=white&label=Zhihu&labelColor=0084FF&color=0084FF&query=$.data.totalSubs&suffix=%20Followers)](https://www.zhihu.com/people/ravenclaw-32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
