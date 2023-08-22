@@ -19,6 +19,8 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Publications
 
 Wu, Haoran, Yueyuan Li, Hanyang Zhuang, Chunxiang Wang, and Ming Yang. "[HR-Planner: A Hierarchical Highway Tactical Planner based on Residual Reinforcement Learning](https://ieeexplore.ieee.org/document/9812400)." In *2022 International Conference on Robotics and Automation (ICRA)*, pp. 7263-7269. IEEE, 2022.
@@ -34,9 +36,6 @@ Li, Yueyuan, Xuemei Chen, and Ming Yang. "[Optical flow based solar irradiance f
 ## Github Statistics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCP-CN-001&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCP-CN-001&theme=transparent)](https://git.io/streak-stats)
 
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=SCP-CN-001&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=SCP-CN-001&theme=oldie&row=1)](https://github.com/ryo-ma/github-profile-trophy)
