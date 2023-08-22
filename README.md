@@ -1,12 +1,19 @@
-# Hello! Welcome to my personal profile! I'm Yueyuan Li,
-
-[![Twitter](https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social)](https://twitter.com/SirenBlue3) [![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dravenclaw-32&label=知乎&query=$.data.totalSubs&color=%230084ff&suffix=%20关注者)](https://www.zhihu.com/people/ravenclaw-32)
+# Hello! Welcome to my personal profile! I'm Yueyuan Li.
 
 ## About
 
 - I'm currently a Ph.D. student at Shanghai Jiao Tong University.
+- I'm affiliated with [CyberC3 Intelligent Vehicle Labs, Shanghai Jiao Tong University](https://cyberc3.sjtu.edu.cn/).
 - My current research interest is in driving decision-making and interactive driving simulation.
-- I'm the main maintainer of the repositories pinned following the profile. I'm welcome to collaborators and contributors!
+- I'm the main maintainer of the repositories pinned following the profile. These projects are looking for collaborators!
+
+[![Research Gate](
+https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white
+)](https://www.researchgate.net/profile/Yueyuan-Li-4)
+[![Twitter](https://img.shields.io/badge/Twitter_%40MotacillaAlba-1D9BF0?logo=twitter&logoColor=white)](https://twitter.com/SirenBlue3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/yueyuanli/)
+[![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dravenclaw-32&logo=zhihu&logoColor=white&label=Zhihu&labelColor=0084FF&color=0084FF&query=$.data.totalSubs&suffix=%20Followers)](https://www.zhihu.com/people/ravenclaw-32)
 
 ## Programming Languages
 
