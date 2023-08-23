@@ -32,7 +32,7 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Publications
 
