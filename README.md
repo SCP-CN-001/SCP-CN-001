@@ -48,7 +48,7 @@ Li, Yueyuan, Xuemei Chen, and Ming Yang. "[Optical flow based solar irradiance f
 
 ## Github Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCP-CN-001&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCP-CN-001&show_icons=true&theme=transparent&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCP-CN-001&theme=transparent)](https://git.io/streak-stats)
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=SCP-CN-001&theme=oldie&row=1)](https://github.com/ryo-ma/github-profile-trophy)
