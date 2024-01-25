@@ -21,7 +21,7 @@ https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=whi
 
 ## Programming Languages
 
-My main programming language is Python. Recently, I am learning C# and Rust for my project.
+My main programming language is Python. Recently, I'm learning C# and Rust for my project.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -35,6 +35,10 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 [![Top Langs](https://github-readme-stats-git-main-scp-cn-001s-projects.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact&PAT_1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Publications
+
+Li, Yueyuan, et al. "[Tactics2D: A Multi-agent Reinforcement Learning Environment for Driving Decision-making](https://arxiv.org/abs/2311.11058)." *arXiv preprint arXiv:2311.11058* (2023).
+
+Li, Yueyuan, et al. "[Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving](https://arxiv.org/abs/2311.11056)." *arXiv preprint arXiv:2311.11056* (2023).
 
 Wu, Haoran, Yueyuan Li, Hanyang Zhuang, Chunxiang Wang, and Ming Yang. "[HR-Planner: A Hierarchical Highway Tactical Planner based on Residual Reinforcement Learning](https://ieeexplore.ieee.org/document/9812400)." In *2022 International Conference on Robotics and Automation (ICRA)*, pp. 7263-7269. IEEE, 2022.
 
