@@ -1,4 +1,4 @@
-# Hello! Welcome to my personal profile! I'm Yueyuan Li.
+# Hello! Welcome to my profile! I'm Yueyuan Li.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white
 )](mailto:rowena.academic@gmail.com)
@@ -32,13 +32,13 @@ My main programming language is Python. Recently, I'm learning C# and Rust for m
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-git-main-scp-cn-001s-projects.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact&PAT_1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-scp-cn-001s-projects.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Publications
 
 Li, Yueyuan, et al. "[Tactics2D: A Multi-agent Reinforcement Learning Environment for Driving Decision-making](https://arxiv.org/abs/2311.11058)." *arXiv preprint arXiv:2311.11058* (2023).
 
-Li, Yueyuan, et al. "[Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving](https://arxiv.org/abs/2311.11056)." *arXiv preprint arXiv:2311.11056* (2023).
+Li, Yueyuan, et al. "[Choose your simulator wisely: A review on open-source simulators for autonomous driving.](https://ieeexplore.ieee.org/abstract/document/10461065/)" *IEEE Transactions on Intelligent Vehicles* (2024).
 
 Wu, Haoran, Yueyuan Li, Hanyang Zhuang, Chunxiang Wang, and Ming Yang. "[HR-Planner: A Hierarchical Highway Tactical Planner based on Residual Reinforcement Learning](https://ieeexplore.ieee.org/document/9812400)." In *2022 International Conference on Robotics and Automation (ICRA)*, pp. 7263-7269. IEEE, 2022.
 
@@ -53,6 +53,7 @@ Li, Yueyuan, Xuemei Chen, and Ming Yang. "[Optical flow based solar irradiance f
 ## Github Statistics
 
 [![GitHub Stats](https://github-readme-stats-git-main-scp-cn-001s-projects.vercel.app/api?username=SCP-CN-001&show_icons=true&theme=transparent&PAT_1)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCP-CN-001&theme=transparent&count_private=true)](https://git.io/streak-stats)
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=SCP-CN-001&theme=oldie&row=1)](https://github.com/ryo-ma/github-profile-trophy)
