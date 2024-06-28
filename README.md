@@ -52,7 +52,7 @@ Yi, Cheng, Li Sujian, and **Li, Yueyuan**. "[Unifying discourse resources with d
 
 Islam, Mobarakol, **Li, Yuanyuan**, and Ren, Hongliang. "[Learning where to look while tracking instruments in robot-assisted surgery](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_46)." In *International Conference on Medical Image Computing and Computer-Assisted Intervention*, pp. 412-420. Cham: Springer International Publishing, 2019.
 
-**Li, Yueyuan**, Xuemei Chen, and Ming Yang. "[Optical flow based solar irradiance forecasting in satellite images](https://ieeexplore.ieee.org/abstract/document/9043950)." 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE, 2019.
+**Li, Yueyuan**, Chen, Xuemei, and Yang, Ming. "[Optical flow based solar irradiance forecasting in satellite images](https://ieeexplore.ieee.org/abstract/document/9043950)." 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE, 2019.
 
 ## Github Statistics
 
