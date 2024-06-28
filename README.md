@@ -21,7 +21,7 @@ https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=whi
 
 ## Programming Languages
 
-My main programming language is Python. Recently, I'm learning C# and Rust for my project.
+My main programming language is Python. Recently, I am learning C# and Rust for my project.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -36,19 +36,23 @@ My main programming language is Python. Recently, I'm learning C# and Rust for m
 
 ## Publications
 
-Li, Yueyuan, et al. "[Tactics2D: A Multi-agent Reinforcement Learning Environment for Driving Decision-making](https://arxiv.org/abs/2311.11058)." *arXiv preprint arXiv:2311.11058* (2023).
+Yan, Weihao, Qian, Yeqiang, **Li, Yueyuan**, et al. SS-ADA: A Semi-Supervised Active Domain Adaptation Framework for Semantic Segmentation. arXiv preprint arXiv:[release soon] (2024).
 
-Li, Yueyuan, et al. "[Choose your simulator wisely: A review on open-source simulators for autonomous driving.](https://ieeexplore.ieee.org/abstract/document/10461065/)" *IEEE Transactions on Intelligent Vehicles* (2024).
+Jiang, Mingyang, **Li, Yueyuan**, Zhang, Songan, et al. "[HOPE: A Reinforcement Learning-based Hybrid Policy Path Planner for Diverse Parking Scenarios](https://arxiv.org/abs/2405.20579)." arXiv preprint arXiv:2405.20579 (2024).
 
-Wu, Haoran, Yueyuan Li, Hanyang Zhuang, Chunxiang Wang, and Ming Yang. "[HR-Planner: A Hierarchical Highway Tactical Planner based on Residual Reinforcement Learning](https://ieeexplore.ieee.org/document/9812400)." In *2022 International Conference on Robotics and Automation (ICRA)*, pp. 7263-7269. IEEE, 2022.
+**Li, Yueyuan**, Zhang, Songan, Jiang, Mingyang, et al. "[Tactics2D: A Highly Modular and Extensible Simulator for Driving Decision-Making](https://arxiv.org/abs/2311.11058)." IEEE Transactions on Intelligent Vehicles (2024).
 
-Yuan, Wei, Yueyuan Li, Hanyang Zhuang, Chunxiang Wang, and Ming Yang. "[Prioritized experience replay-based deep q learning: Multiple-reward architecture for highway driving decision making](https://ieeexplore.ieee.org/document/9576818)." *IEEE Robotics & Automation Magazine* 28, no. 4 (2021): 21-31.
+**Li, Yueyuan**, Yuan, Wei, Zhang, Songan, et al. "[Choose your simulator wisely: A review on open-source simulators for autonomous driving.](https://ieeexplore.ieee.org/abstract/document/10461065/)" *IEEE Transactions on Intelligent Vehicles* (2024).
 
-Yi, Cheng, Li Sujian, and Li Yueyuan. "[Unifying discourse resources with dependency framework](https://aclanthology.org/2021.ccl-1.94/)." In *Proceedings of the 20th Chinese National Conference on Computational Linguistics*, pp. 1058-1065. 2021.
+Wu, Haoran, **Li, Yueyuan**, Zhuang, Hanyang, et al. "[HR-Planner: A Hierarchical Highway Tactical Planner based on Residual Reinforcement Learning](https://ieeexplore.ieee.org/document/9812400)." In *2022 International Conference on Robotics and Automation (ICRA)*, pp. 7263-7269. IEEE, 2022.
 
-Islam, Mobarakol, Yueyuan Li, and Hongliang Ren. "[Learning where to look while tracking instruments in robot-assisted surgery](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_46)." In *International Conference on Medical Image Computing and Computer-Assisted Intervention*, pp. 412-420. Cham: Springer International Publishing, 2019.
+Yuan, Wei, **Li, Yueyuan**, Zhuang, Hanyang, et al. "[Prioritized experience replay-based deep q learning: Multiple-reward architecture for highway driving decision making](https://ieeexplore.ieee.org/document/9576818)." *IEEE Robotics & Automation Magazine* 28, no. 4 (2021): 21-31.
 
-Li, Yueyuan, Xuemei Chen, and Ming Yang. "[Optical flow based solar irradiance forecasting in satellite images](https://ieeexplore.ieee.org/abstract/document/9043950)." In *2019 IEEE International Conference on Real-time Computing and Robotics (RCAR)*, pp. 442-447. IEEE, 2019.
+Yi, Cheng, Li Sujian, and **Li, Yueyuan**. "[Unifying discourse resources with dependency framework](https://aclanthology.org/2021.ccl-1.94/)." In *Proceedings of the 20th Chinese National Conference on Computational Linguistics*, pp. 1058-1065. 2021.
+
+Islam, Mobarakol, **Li, Yuanyuan**, and Ren, Hongliang. "[Learning where to look while tracking instruments in robot-assisted surgery](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_46)." In *International Conference on Medical Image Computing and Computer-Assisted Intervention*, pp. 412-420. Cham: Springer International Publishing, 2019.
+
+**Li, Yueyuan**, Xuemei Chen, and Ming Yang. "[Optical flow based solar irradiance forecasting in satellite images](https://ieeexplore.ieee.org/abstract/document/9043950)." 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE, 2019.
 
 ## Github Statistics
 
