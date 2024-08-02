@@ -53,10 +53,10 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SCP-CN-001&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SCP-CN-001&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=SCP-CN-001&column=4&theme=oldie&no-bg=true&no-frame=true&margin-w=10" align="left" style="width: 100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SCP-CN-001&column=4&theme=transparent&no-bg=true&no-frame=true&margin-w=10" align="left" style="width: 100%" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 </td></tr>
 
