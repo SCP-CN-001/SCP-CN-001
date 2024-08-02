@@ -1,4 +1,4 @@
-# Hello! Welcome to my profile! I'm Yueyuan Li.
+# Welcome to my profile! This is Yueyuan Li
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white
 )](mailto:rowena.academic@gmail.com)
@@ -8,7 +8,7 @@ https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=whi
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white
 )](https://scholar.google.com/citations?user=GcxEMNIAAAAJ)
 [![Twitter](https://img.shields.io/badge/Twitter_%40MotacillaAlba-1D9BF0?logo=twitter&logoColor=white)](https://twitter.com/SirenBlue3)
-[![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dravenclaw-32&logo=zhihu&logoColor=white&label=Zhihu&labelColor=0084FF&color=0084FF&query=$.data.totalSubs&suffix=%20Followers)](https://www.zhihu.com/people/ravenclaw-32)
+[![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fravenclaw-32&query=count&logo=zhihu&logoColor=white&label=Zhihu&labelColor=0084FF&color=0084FF&suffix=%20Followers&cacheSeconds=3600)](https://www.zhihu.com/people/ravenclaw-32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/yueyuanli/)
 
@@ -18,21 +18,6 @@ https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=whi
 - I'm affiliated with [CyberC3 Intelligent Vehicle Labs, Shanghai Jiao Tong University](https://cyberc3.sjtu.edu.cn/).
 - My current research interest is in driving decision-making and interactive driving simulation.
 - I'm the main maintainer of the repositories pinned following the profile. These projects are looking for collaborators!
-
-## Programming Languages
-
-My main programming language is Python. Recently, I am learning C# and Rust for my project.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-git-main-scp-cn-001s-projects.vercel.app/api/top-langs/?username=SCP-CN-001&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Publications
 
@@ -54,10 +39,33 @@ Islam, Mobarakol, **Li, Yuanyuan**, and Ren, Hongliang. "[Learning where to look
 
 **Li, Yueyuan**, Chen, Xuemei, and Yang, Ming. "[Optical flow based solar irradiance forecasting in satellite images](https://ieeexplore.ieee.org/abstract/document/9043950)." 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE, 2019.
 
-## Github Statistics
+## Skill and Statistics
 
-[![GitHub Stats](https://github-readme-stats-git-main-scp-cn-001s-projects.vercel.app/api?username=SCP-CN-001&show_icons=true&theme=transparent&PAT_1)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+My main programming language is Python. Recently, I am learning C# and Rust for my project.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCP-CN-001&theme=transparent&count_private=true)](https://git.io/streak-stats)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=SCP-CN-001&theme=oldie&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=SCP-CN-001&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=SCP-CN-001&column=4&theme=oldie&no-bg=true&no-frame=true&margin-w=10" align="left" style="width: 100%" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+</td></tr>
+
+<tr><td valign="top" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SCP-CN-001&theme=transparent&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=motacillaalba&theme=transparent&layout=compact&langs_count=12&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>
