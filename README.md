@@ -21,11 +21,13 @@ https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=whi
 
 ## Publications
 
-Yan, Weihao, Qian, Yeqiang, **Li, Yueyuan**, et al. SS-ADA: A Semi-Supervised Active Domain Adaptation Framework for Semantic Segmentation. arXiv preprint arXiv:[release soon] (2024).
+**Li, Yueyuan**, Jiang, Mingyang, et al. [Ramble](https://arxiv.org/abs/2410.02253). *arXiv preprint arXiv*. (Co-first author)
 
-Jiang, Mingyang, **Li, Yueyuan**, Zhang, Songan, et al. "[HOPE: A Reinforcement Learning-based Hybrid Policy Path Planner for Diverse Parking Scenarios](https://arxiv.org/abs/2405.20579)." arXiv preprint arXiv:2405.20579 (2024).
+Yan, Weihao, Qian, Yeqiang, **Li, Yueyuan**, et al. [SS-ADA: A Semi-Supervised Active Domain Adaptation Framework for Semantic Segmentation](https://arxiv.org/abs/2407.12788). *arXiv preprint arXiv*.
 
-**Li, Yueyuan**, Zhang, Songan, Jiang, Mingyang, et al. "[Tactics2D: A Highly Modular and Extensible Simulator for Driving Decision-Making](https://arxiv.org/abs/2311.11058)." IEEE Transactions on Intelligent Vehicles (2024).
+Jiang, Mingyang, **Li, Yueyuan**, Zhang, Songan, et al. "[HOPE: A Reinforcement Learning-based Hybrid Policy Path Planner for Diverse Parking Scenarios](https://arxiv.org/abs/2405.20579)." *IEEE Transactions on Intelligent Transportation Systems* (2025). (Co-first author) [Code](https://github.com/jiamiya/HOPE) [Demo](https://www.youtube.com/watch?v=62w9qhjIuRI)
+
+**Li, Yueyuan**, Zhang, Songan, Jiang, Mingyang, et al. "[Tactics2D: A Highly Modular and Extensible Simulator for Driving Decision-Making](https://ieeexplore.ieee.org/abstract/document/10561544/)." *IEEE Transactions on Intelligent Vehicles* (2024). [Code](https://github.com/WoodOxen/tactics2d)
 
 **Li, Yueyuan**, Yuan, Wei, Zhang, Songan, et al. "[Choose your simulator wisely: A review on open-source simulators for autonomous driving.](https://ieeexplore.ieee.org/abstract/document/10461065/)" *IEEE Transactions on Intelligent Vehicles* (2024).
 
@@ -61,8 +63,8 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 </td></tr>
 
 <tr><td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SCP-CN-001&theme=transparent&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SCP-CN-001&theme=transparent&hide_border=true" align="left" style="width: 100%" />
+  
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 </td><td valign="top" width="50%">
