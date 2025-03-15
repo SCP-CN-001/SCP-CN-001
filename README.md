@@ -1,16 +1,11 @@
 # Welcome to my profile! This is Yueyuan Li
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white
-)](mailto:rowena.academic@gmail.com)
-[![Research Gate](
-https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white
-)](https://www.researchgate.net/profile/Yueyuan-Li-4)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white
-)](https://scholar.google.com/citations?user=GcxEMNIAAAAJ)
-[![Twitter](https://img.shields.io/badge/Twitter_%40MotacillaAlba-1D9BF0?logo=twitter&logoColor=white)](https://twitter.com/SirenBlue3)
-[![zhihu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fravenclaw-32&query=count&logo=zhihu&logoColor=white&label=Zhihu&labelColor=0084FF&color=0084FF&suffix=%20Followers&cacheSeconds=3600)](https://www.zhihu.com/people/ravenclaw-32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/yueyuanli/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rowena.academic@gmail.com)
+[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yueyuan-Li-4)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GcxEMNIAAAAJ)
+[![Zhihu](https://img.shields.io/badge/-1.4k%2B-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/ravenclaw-32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yueyuanli/)
+[![GitHub-profile-viewer](https://komarev.com/ghpvc/?username=scp-cn-001&color=grey&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## About
 
