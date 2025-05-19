@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rowena.academic@gmail.com)
 [![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yueyuan-Li-4)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GcxEMNIAAAAJ)
-[![Zhihu](https://img.shields.io/badge/-1.4k%2B-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/ravenclaw-32)
+[![Zhihu](https://img.shields.io/badge/-1.5k%2B-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/ravenclaw-32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yueyuanli/)
 [![GitHub-profile-viewer](https://komarev.com/ghpvc/?username=scp-cn-001&color=grey&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
 
