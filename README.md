@@ -16,7 +16,7 @@
 
 ## Publications
 
-**Li, Yueyuan**, Jiang, Mingyang, et al. [Ramble](https://arxiv.org/abs/2410.02253). *arXiv preprint arXiv*. (Co-first author)
+**Li, Yueyuan**, Jiang, Mingyang, et al. [From Imitation to Exploration: End-to-end Autonomous Driving based on World Model](https://arxiv.org/abs/2410.02253). *arXiv preprint arXiv*. (Co-first author)
 
 Yan, Weihao, Qian, Yeqiang, **Li, Yueyuan**, et al. [SS-ADA: A Semi-Supervised Active Domain Adaptation Framework for Semantic Segmentation](https://arxiv.org/abs/2407.12788). *arXiv preprint arXiv*.
 
